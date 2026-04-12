@@ -61,26 +61,6 @@ The agent improves its performance over time by interacting with the environment
 * Hidden Layers: Fully Connected / CNN
 * Output: Q-values for each action
 
----
-
-## 🏃‍♂️ Getting Started
-
-### 🔹 Clone Repository
-
-```bash id="6z9zxr"
-git clone https://github.com/your-username/FlappyBird-DQN-Agent.git
-cd FlappyBird-DQN-Agent
-```
-
-### 🔹 Install Dependencies
-
-```bash id="4dqh4h"
-pip install -r requirements.txt
-```
-
----
-
-
 
 ## 📊 Results
 
@@ -88,18 +68,7 @@ pip install -r requirements.txt
 * 🎮 Agent learns stable flight
 * 🧠 Improved decision-making over time
 
----
 
-## 📸 Demo (Optional)
-
-*Add a GIF or screenshot here showing the trained agent playing*
-<h2 align="center">📸 Demo</h2>
-
-<p align="center">
-  <img src=""C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot (37).png"" width="600"/>
-</p>
-
----
 
 ## 🔥 Future Improvements
 
@@ -108,28 +77,10 @@ pip install -r requirements.txt
 * Prioritized Experience Replay
 
 
-## 📁 .gitignore Highlights
-
-```bash id="d0ps0t"
-runs/
-logs/
-checkpoints/
-__pycache__/
-*.pyc
-```
-
----
-
-
-
 ## 👨‍💻 Author
 
 **Sonu Kumar**
 
-* 💯 100 Days of LeetCode
-* 🤖 Passionate about AI & Reinforcement Learning
-
----
 
 ## 🌟 Why This Project Matters
 
