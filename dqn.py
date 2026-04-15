@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 
 class DQN(nn.Module):
-    #input dim , output dim , hidden dim
+    #input dimensions , output dimension , hidden dimension
 
     def __init__(self, num_states, num_actions):
         super(DQN,self).__init__()
