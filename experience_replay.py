@@ -14,7 +14,7 @@ class ReplayMemory():
         return random.sample(self.memory , sample_size)
 
 
-    # curr buffer size
+    # current buffer size
     def __len__(self):
         return len(self.memory)
 
