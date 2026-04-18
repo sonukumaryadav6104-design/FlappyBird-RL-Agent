@@ -96,7 +96,7 @@ class Agent:
                     with torch.no_grad():
                         action = policy_dqn(state.unsqueeze(dim = 0)).squeeze().argmax() 
                     
-                    #exploit    
+                
 
                 next_state,reward,terminated, _, _  = env.step(action.item())
                 episode_reward += reward
