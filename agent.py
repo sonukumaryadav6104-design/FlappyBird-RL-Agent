@@ -4,7 +4,7 @@ from dqn import DQN
 from experience_replay import ReplayMemory
 import torch
 import itertools 
-import yamL
+import yaml
 import torch.nn as nn
 import torch.optim as optim
 import random
